@@ -61,5 +61,12 @@
         "image": "nissan-juke.jpg",
         "description": "The fancy yellow car",
         "price": 100500
+    },
+    {
+        "id": "10",
+        "title": "Toyota Tundra",
+        "image": "toyota_tundra.jpg",
+        "description": "The biggest car",
+        "price": 9999999
     }
 ]
