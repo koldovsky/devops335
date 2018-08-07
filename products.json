@@ -49,17 +49,24 @@
         "price": 99999.99
     },
     {
-        "id": "9",
-        "title": "Chevrolet Tahoe",
-        "image": "tesla-x.jpg",
-        "description": "Best Chevrolet in the World",
-        "price": 999.99
-    }
-    {
         "id": "8",
         "title": "Tesla Roadster",
         "image": "tesla-roadster.jpg",
         "description": "The fastest serial car",
         "price": 250000
+    },
+    {
+        "id": "9",
+        "title": "Nissan Juke",
+        "image": "nissan-juke.jpg",
+        "description": "The fancy yellow car",
+        "price": 100500
+    },
+    {
+        "id": "10",
+        "title": "Toyota Tundra",
+        "image": "toyota_tundra.jpg",
+        "description": "The biggest car",
+        "price": 9999999
     }
 ]
