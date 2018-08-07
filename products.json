@@ -48,4 +48,11 @@
         "description": "Best crossover in the World",
         "price": 99999.99
     }
+    {
+        "id": "8",
+        "title": "Tesla Roadster",
+        "image": "tesla-roadster.jpg",
+        "description": "The fastest serial car",
+        "price": 250000
+    }
 ]
