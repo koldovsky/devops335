@@ -47,6 +47,13 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "9",
+        "title": "Chevrolet Tahoe",
+        "image": "tesla-x.jpg",
+        "description": "Best Chevrolet in the World",
+        "price": 999.99
     }
     {
         "id": "8",
