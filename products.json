@@ -68,5 +68,12 @@
         "image": "toyota_tundra.jpg",
         "description": "The biggest car",
         "price": 9999999
+    },
+    {
+        "id": "11",
+        "title": "Chevrolet Tahoe",
+        "image": "toyota_tundra.jpg",
+        "description": "The good car",
+        "price": 999
     }
 ]
